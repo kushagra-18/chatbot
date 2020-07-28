@@ -21,4 +21,4 @@ virtualenv==20.0.7
 Werkzeug==1.0.1
 wincertstore==0.2
 
-chatterbot==1.4
+chatterbot==1.0.2
